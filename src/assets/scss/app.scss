@@ -2,3 +2,43 @@
 @import 'foundation-emails';
 
 @import 'template/template';
+
+.basic-text {
+  font-family: Helvetica, sans-serif;
+}
+
+.header-text {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 20.63px;
+}
+
+.contacts-top {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 10.55px;
+}
+
+.top-sign {
+  font-size: 12px;
+  font-family: Verdana, sans-serif;
+  font-style: italic;
+  line-height: 14.34px;
+  color: #989898;
+}
+
+.background-h1 {
+  background-image: url("https://i.ibb.co/P4HSTS6/bg-mainsign.jpg");
+}
+.background-scheme {
+  background-image: url("https://i.ibb.co/drhbNRD/bg-ditail.jpg");
+}
+
+.background-image {
+  z-index: 10;
+}
+
+.float-numbers {
+  float: left;
+}
