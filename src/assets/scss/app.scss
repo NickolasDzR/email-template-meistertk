@@ -9,7 +9,7 @@ body {
 }
 
 .basic-text {
-  font-family: Helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif !important;
 }
 
 .contacts-top {
@@ -26,7 +26,7 @@ body {
 }
 
 .top-sign {
-  font-size: 12px;
+  font-size: 10.4px;
   font-family: Verdana, sans-serif;
   font-style: italic;
   line-height: 14.34px;
@@ -110,4 +110,25 @@ table .container {
   background-image: url("https://i.ibb.co/YRNCck3/footer-img.jpg");
   width: 600px;
   height: 253px;
+}
+
+.intend-number {
+  margin-top: 3px !important;
+  margin-left: 23px !important;
+}
+
+.header-partners {
+  font-size: 21px !important;
+  font-weight: 510 !important;
+  margin-bottom: 5px !important;
+}
+
+.about-us-p {
+  letter-spacing: -0.8px;
+  font-family: Helvetica,Arial,sans-serif !important;
+}
+
+.scheme-sign {
+  letter-spacing: -0.3px;
+  line-height: 14.2px;
 }
